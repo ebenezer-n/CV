@@ -106,3 +106,34 @@ Ce CV en ligne est **responsif**, c'est-à-dire qu'il s'adapte automatiquement a
 
 ## 📸 Aperçu visuel
 
+---
+
+## 📝 Améliorations possibles
+
+| Amélioration | Description |
+|--------------|-------------|
+| 🎨 Animations CSS | Ajouter des transitions et animations pour plus de dynamisme |
+| 📱 Mode sombre | Proposer un thème sombre pour les utilisateurs qui préfèrent |
+| 📄 Téléchargement PDF | Ajouter un bouton pour exporter le CV en PDF |
+| 🌐 Multilingue | Proposer une version en anglais du CV |
+| 📊 Compétences avec niveaux | Ajouter des barres de progression pour les compétences |
+
+---
+
+## 📬 Contact
+
+Si vous avez des questions ou des suggestions :
+
+- **Email :** nambimanebenezer97@gmail.com
+- **GitHub :** [ebenezer-n](https://github.com/ebenezer-n)
+- **LinkedIn :** [eben-ezernambiman](https://www.linkedin.com/in/eben-ezernambiman)
+
+---
+
+## 📜 Licence
+
+Ce projet est un projet personnel, réalisé dans le cadre de ma formation. Tous droits réservés.
+
+---
+
+**Développé en HTML5 et CSS3**
