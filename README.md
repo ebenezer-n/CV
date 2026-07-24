@@ -21,3 +21,88 @@ Ce CV en ligne est **responsif**, c'est-à-dire qu'il s'adapte automatiquement a
 ---
 
 ## 📁 Structure du projet
+
+---
+
+## 📋 Contenu du CV
+
+### 1. En-tête
+- Photo de profil
+- Nom et prénom
+- Titre : Étudiant en Développement Web
+- Slogan : *"Transformer des lignes de code en solutions concrètes"*
+
+### 2. Colonne gauche
+- **👤 Profil** : Présentation personnelle et objectifs
+- **📞 Contact** : Téléphone, email, adresse
+- **🔗 Liens** : GitHub et LinkedIn
+- **💻 Compétences techniques** : HTML5, CSS3
+- **🤝 Compétences humaines** : Travail en équipe, autonomie, rigueur, etc.
+- **🌍 Langues** : Français (courant), Anglais (débutant/intermédiaire)
+- **🎯 Centres d'intérêt** : Lecture, technologies, musique
+
+### 3. Colonne droite
+- **🎓 Formation** :
+  - *Académique* : Développement web (IMeN, 2025-2027)
+  - *Professionnelle* :
+    - Bâtiment électricien (AGS, 2020)
+    - Parcours Intensif en Informatique (AGEMA, 2021)
+- **🚀 Projets** :
+  - EduConnect — Plateforme de gestion scolaire
+  - CV en ligne — Projet personnel
+- **💼 Expériences** :
+  - Community Manager
+  - Projets en Intelligence Artificielle (Build With Afri)
+  - Coordinateur général (JAD 2026)
+  - Création de contenu numérique
+  - Secrétariat administratif
+
+### 4. Pied de page
+- Copyright
+- Mention du développement en HTML5 et CSS3
+
+---
+
+## 🎨 Charte graphique
+
+| Élément | Valeur |
+|---------|--------|
+| Couleur principale | `#003366` (bleu marine) |
+| Couleur d'accent | `#e07b39` (orange) |
+| Fond de page | `#f0f2f5` |
+| Fond des blocs | `#ffffff` |
+| Police | Segoe UI, Tahoma, sans-serif |
+| Coins arrondis | `8px` |
+
+---
+
+## 🚀 Comment visualiser le CV
+
+### Méthode 1 : Ouvrir avec Live Server (recommandé)
+
+1. Téléchargez ou clonez le projet.
+2. Ouvrez le dossier `Mon_CV` dans **VS Code**.
+3. Faites un clic droit sur `index.html`.
+4. Sélectionnez **"Open with Live Server"**.
+5. Le CV s'ouvre dans votre navigateur.
+
+### Méthode 2 : Ouvrir directement dans le navigateur
+
+1. Double-cliquez sur le fichier `index.html`.
+2. Il s'ouvre dans votre navigateur par défaut.
+
+---
+
+## 🌐 Mettre le CV en ligne (GitHub Pages)
+
+1. Poussez le projet sur GitHub.
+2. Allez dans **Settings** → **Pages**.
+3. Sélectionnez la branche et le dossier racine.
+4. Activez GitHub Pages.
+5. Le CV sera accessible à l'adresse :
+   `https://[votre-username].github.io/Mon_CV/`
+
+---
+
+## 📸 Aperçu visuel
+
