@@ -100,7 +100,7 @@ Ce CV en ligne est **responsif**, c'est-à-dire qu'il s'adapte automatiquement a
 3. Sélectionnez la branche et le dossier racine.
 4. Activez GitHub Pages.
 5. Le CV sera accessible à l'adresse :
-   `https://[votre-username].github.io/Mon_CV/`
+   `https://ebenezer-n.github.io/Mon_CV/`
 
 ---
 
